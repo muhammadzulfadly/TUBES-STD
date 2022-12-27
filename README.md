@@ -6,8 +6,8 @@ TUBES Struktur Data : Multi-Linked List M ke N
 # Studi Kasus
 Aplikasi Pembookingan teater yang berfungsi untuk mendata pelanggan yang ingin menonton pertunjukan teater dengan max kouta teater adalah 25 pelanggan, di mana pelanggan bisa membooking kouta lebih dari 1 apabila masih ada kouta  dan teater bisa dibooking dengan banyak pelanggan. Kouta teater akan berkurang apabila sudah ada yang membooking.
 # Spesifikasi Umum
-- Pertunjukan(Parent)
-  - Teater
+- Teater(Parent)
+  - studio
   - Jadwal
   - Acara
 - Pelanggan(Child)
@@ -18,4 +18,13 @@ Aplikasi Pembookingan teater yang berfungsi untuk mendata pelanggan yang ingin m
 - Transaksi(Relasi)
   - Relasi antara list Parent dan list Child
 # Fungsionalitas
-- 
+- Insert data teater dari depan
+- Show all data teater
+- Menghapus data teater dan data pelanggan 
+- Mencari data teater 
+- Insert data pelanggan
+- Menghubungkan data teater beserta data pelanggan
+- Menampilkan seluruh data teater beserta pelanggan
+- Mencari data pelanggan pada teater tertentu
+- Menghapus data pelanggan pada teater tertentu
+- Menghitung jumlah data pelanggan dari teater tertentu
