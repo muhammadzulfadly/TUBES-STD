@@ -24,7 +24,7 @@ Aplikasi Pembookingan teater yang berfungsi untuk mendata pelanggan yang ingin m
 - Mencari data teater 
 - Insert data pelanggan
 - Menghubungkan data teater beserta data pelanggan
-- Menampilkan data teater yang telah dibooking beserta pelanggan yang telah  membooking
-- Mencari data pelanggan pada teater tertentu
+- Menampilkan data teater yang telah dibooking beserta jumlah pelanggan yang telah membooking
+- Mencari data pelanggan yang telah membooking pada teater tertentu
 - Menghapus data pelanggan pada teater tertentu
 - Menghitung jumlah data pelanggan dari teater tertentu
