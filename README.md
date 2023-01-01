@@ -4,17 +4,18 @@ TUBES Struktur Data : Multi-Linked List M ke N
 - Nurul Pratiwi (1302213052)
 - Muhammad Zulfadly (1302210046)
 # Studi Kasus
-Aplikasi Pembookingan teater yang berfungsi untuk mendata pelanggan yang ingin menonton pertunjukan teater dengan max kouta teater adalah 25 pelanggan, di mana pelanggan bisa membooking kouta lebih dari 1 apabila masih ada kouta  dan teater bisa dibooking dengan banyak pelanggan. Kouta teater akan berkurang apabila sudah ada yang membooking.
+Pembookingan Teater yang berfungsi untuk mendata Pelanggan yang ingin menonton pertunjukan Teater, dimana Pelanggan bisa membooking kuota lebih dari 1 apabila masih ada kuota  dan juga Teater bisa menentukan kapasitas kuota secara bebas. Kuota Teater akan otomatis berkurang apabila sudah ada yang membooking dan kuota Teater akan otomatis bertambah kembali apabila transaksi dihapus.
 # Spesifikasi Umum
-- Teater(Parent)
-  - studio
-  - Jadwal
-  - Acara
-- Pelanggan(Child)
+- Pelanggan(Parent)
+  - ID
   - Nama
-  - Usia
+  - Usia 
   - Jenis Kelamin
-  - NIK
+- Teater(Child)
+  - Studio
+  - Acara
+  - Jadwal
+  - Kapasitas
 - Transaksi(Relasi)
   - Relasi antara list Parent dan list Child
 # Fungsionalitas
