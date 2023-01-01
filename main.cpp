@@ -367,14 +367,16 @@ int main()
                 cin >> infoP.ID;
                 AS = findElm(LS, infoT.studio, infoT.acara, infoP.ID);
                 if(infoP.ID == info(pelanggan(AS)).ID) {
-                    cout << endl;
-                    cout << "Nomor ID\t: " << info(pelanggan(AS)).ID << endl;
-                    cout << "Nama Pelanggan\t: " << info(pelanggan(AS)).nama << endl;
-                    cout << "Studio\t\t: " << info(teater(AS)).studio << endl;
-                    cout << "Acara\t\t: " << info(teater(AS)).acara << endl;
-                    cout << "Jadwal\t\t: " << info(teater(AS)).jadwal << endl;
-                    cout << endl;
-                    AS = next(AS);
+                    while(infoP.ID == info(pelanggan(AS)).ID) {
+                        cout << endl;
+                        cout << "Nomor ID\t: " << info(pelanggan(AS)).ID << endl;
+                        cout << "Nama Pelanggan\t: " << info(pelanggan(AS)).nama << endl;
+                        cout << "Studio\t\t: " << info(teater(AS)).studio << endl;
+                        cout << "Acara\t\t: " << info(teater(AS)).acara << endl;
+                        cout << "Jadwal\t\t: " << info(teater(AS)).jadwal << endl;
+                        cout << endl;
+                        AS = next(AS);
+                    }
                 }
             }
             else {
