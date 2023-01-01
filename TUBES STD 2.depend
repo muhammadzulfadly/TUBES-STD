@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1672279726 source:c:\tubes std 2\main.cpp
+	"teater.h"
+	"pelanggan.h"
+	"transaksi.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672279413 source:c:\tubes std 2\pelanggan.cpp
+	"pelanggan.h"
+
+1672275504 source:c:\tubes std 2\transaksi.cpp
+	"transaksi.h"
+
+1672267339 source:c:\tubes std 2\teater.cpp
+	"teater.h"
+
+1672267339 c:\tubes std 2\teater.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672267936 c:\tubes std 2\pelanggan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672275446 c:\tubes std 2\transaksi.h
+	"pelanggan.h"
+	"teater.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672283507 source:c:\tubes std 4\pelanggan.cpp
+	"pelanggan.h"
+
+1672280983 c:\tubes std 4\pelanggan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672285714 source:c:\tubes std 4\teater.cpp
+	"teater.h"
+
+1672285714 c:\tubes std 4\teater.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672233489 source:c:\tubes std 4\transaksi.cpp
+	"transaksi.h"
+
+1672279704 c:\tubes std 4\transaksi.h
+	"pelanggan.h"
+	"teater.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672284859 source:c:\tubes std 4\main.cpp
+	"teater.h"
+	"pelanggan.h"
+	"transaksi.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672283507 source:c:\tubes std v.4\pelanggan.cpp
+	"pelanggan.h"
+
+1672292387 c:\tubes std v.4\pelanggan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672290648 source:c:\tubes std v.4\teater.cpp
+	"teater.h"
+
+1672290648 c:\tubes std v.4\teater.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672289608 source:c:\tubes std v.4\transaksi.cpp
+	"transaksi.h"
+
+1672279704 c:\tubes std v.4\transaksi.h
+	"pelanggan.h"
+	"teater.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672290446 source:c:\tubes std v.4\main.cpp
+	"teater.h"
+	"pelanggan.h"
+	"transaksi.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672370192 source:c:\tubes std v.5\transaksi.cpp
+	"transaksi.h"
+
+1672322582 c:\tubes std v.5\transaksi.h
+	"pelanggan.h"
+	"teater.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672368229 c:\tubes std v.5\pelanggan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672311007 c:\tubes std v.5\teater.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672372436 source:c:\tubes std v.5\main.cpp
+	"teater.h"
+	"pelanggan.h"
+	"transaksi.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672372391 source:c:\tubes std v.5\pelanggan.cpp
+	"pelanggan.h"
+
+1672372391 source:c:\tubes std v.5\teater.cpp
+	"teater.h"
+
+1672539243 source:c:\tubes std v.6\main.cpp
+	"teater.h"
+	"pelanggan.h"
+	"transaksi.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672384621 c:\tubes std v.6\teater.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672525299 c:\tubes std v.6\pelanggan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672403025 c:\tubes std v.6\transaksi.h
+	"transaksi.h"
+	"teater.h"
+	"pelanggan.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672533932 source:c:\tubes std v.6\pelanggan.cpp
+	"pelanggan.h"
+
+1672533932 source:c:\tubes std v.6\teater.cpp
+	"teater.h"
+
+1672551857 source:c:\tubes std v.6\transaksi.cpp
+	"transaksi.h"
+
+1672639736 source:c:\tubes std v.finall\main.cpp
+	"teater.h"
+	"pelanggan.h"
+	"transaksi.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672384621 c:\tubes std v.finall\teater.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672525299 c:\tubes std v.finall\pelanggan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672576613 c:\tubes std v.finall\transaksi.h
+	"transaksi.h"
+	"teater.h"
+	"pelanggan.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1672533932 source:c:\tubes std v.finall\pelanggan.cpp
+	"pelanggan.h"
+
+1672533932 source:c:\tubes std v.finall\teater.cpp
+	"teater.h"
+
+1672639564 source:c:\tubes std v.finall\transaksi.cpp
+	"transaksi.h"
+
